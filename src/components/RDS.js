@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import { centerDistance, shapeFunction } from "../utils/helper";
 import config from "../utils/config";
 
-
 const RDS = ({ color, data }) => {
   const [step, setStep] = useState(0);
 
