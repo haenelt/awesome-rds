@@ -1,8 +1,9 @@
-# Awesome RDS
+# awesome-rds
 
 <p align="center">
-  <img src="https://github.com/haenelt/column_sampler/blob/main/img/example.gif?raw=true" width=75% height=75% alt="Illustration of RDS"/>
+  <img src="https://github.com/haenelt/awesome-rds/blob/main/img/example.png?raw=true" width=35% height=35% alt="Illustration of RDS"/>
 </p>
+
 Small project which shows an animated random-dot stereogram (RDS) [[1] ](#1)in a web browser. 
 
 ## Installation
